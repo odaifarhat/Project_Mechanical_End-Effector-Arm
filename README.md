@@ -47,11 +47,28 @@ You need two 3mmSpacer And six 15mmStandoff Rules for loading the top on them.
 
 
 
-
-
 #  The fourth step
+
+BackPlate above BottomPlate.
+
+![BackPlate](https://user-images.githubusercontent.com/56201060/123422180-7d751c80-d5c6-11eb-9952-1ebcaa308ccb.jpg)
+
+
+![#3](https://user-images.githubusercontent.com/56201060/123422206-87971b00-d5c6-11eb-85da-a4fcc1ba86fc.jpg)
+
+
+
 #  The Fifth step
+Create a copy of RightFinger AND LeftFinger and put it above two 3mmSpacer And six 15mmStandoff.
+
+
+![#4](https://user-images.githubusercontent.com/56201060/123422851-769ad980-d5c7-11eb-9dc1-67c8433a91dc.jpg)
+
+
+
 #  The Sixth step
+
+
 #  The Seventh step
 #  The Eighth step
 #  The The ninth step
